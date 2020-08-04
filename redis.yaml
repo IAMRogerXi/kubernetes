@@ -6,7 +6,7 @@ metadata:
     app: redis-cluster
 spec:
   selector:
-    machineLabels:
+    matchLabels:
       app: redis-cluster
   serviceName: redis-cluster
   replicas: 6
