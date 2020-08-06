@@ -1,3 +1,4 @@
+# http://cloudurable.com/blog/kubernetes_statefulset_zookeeper_part1/index.html
 apiVersion: v1
 kind: Service
 metadata:
